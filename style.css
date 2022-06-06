@@ -5,3 +5,50 @@ Template: hello-elementor
 Version: 1.0.1
 Text Domain: hello-elementor-child
 */
+
+#entry-title {
+  display: none;
+  justify-content: center;
+}
+
+#scc_form_2 .scc-title-s {
+  color: white;
+  font-size: 30px;
+  font-family: Staatliches, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#scc_form_2 .description_section_preview {
+  color: white;
+  font-family: kefa, sans-serif;
+  font-size: 18px;
+}
+
+#scc_form_2 .scc-form-field-item-label {
+  color: white;
+  font-family: kefa, sans-serif;
+  font-size: 18px;
+}
+
+#scc_form_2 a.scc-trigger.scc-btn-style-2 {
+  color: white !important;
+}
+
+element {
+  font-weight: 400;
+  font-size: 30px;
+  color: white;
+}
+
+.totalPrice {
+  font-weight: 400;
+  font-size: 30px;
+  color: white;
+}
+
+.totalPrice_45 {
+  font-weight: 400;
+  font-size: 30px;
+  color: white;
+}
